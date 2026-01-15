@@ -15,3 +15,4 @@
     <OnLaunch HoursBetweenUpdateChecks="4" />
   </UpdateSettings>
 </AppInstaller>
+
