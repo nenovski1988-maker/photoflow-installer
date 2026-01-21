@@ -8,10 +8,11 @@
     Name="0b9861d4-da2b-4fd8-93f7-be1f88989c8d"
     Publisher="CN=PhotoFlowTest"
     Version="2.0.13.2"
-    Uri="https://github.com/nenovski1988-maker/PhotoFlow.Desktop/releases/download/v2.0.13.2-rc1/PhotoFlow.Package_2.0.13.2_x64.msixbundle" />
+    Uri="https://github.com/nenovski1988-maker/PhotoFlow.Desktop/releases/download/v2.0.15.1/ShotFactory_x64.msixbundle" />
 
   <UpdateSettings>
     <OnLaunch HoursBetweenUpdateChecks="0" />
   </UpdateSettings>
 </AppInstaller>
+
 
